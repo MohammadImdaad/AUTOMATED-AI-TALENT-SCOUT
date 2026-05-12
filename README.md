@@ -21,3 +21,6 @@ The system follows a three-layer architecture:
 Ingestion Layer – Google Drive trigger
 Processing Layer – OCR and AI scoring
 Logging Layer – Google Sheets output
+
+<img width="679" height="552" alt="image" src="https://github.com/user-attachments/assets/22828440-8616-4418-996a-da4ec3ccfdc1" />
+
